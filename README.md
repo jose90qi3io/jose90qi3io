@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Jose Luis</h1>
-<h3 align="center">Estudiante de la carrera Ingeniería en Sistemas</h3>
+<h3 align="center">Estudiante de la carrera: Ingeniería en Sistemas</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
