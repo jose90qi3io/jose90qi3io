@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, me llamo Jose Luis</h1>
 <h3 align="center">Estudiante de la carrera: Ingeniería en Sistemas</h3>
 
+<img src="https://tenor.com/zm8Y.gif"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/jose luis estrada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jose luis estrada" height="30" width="40" /></a>
