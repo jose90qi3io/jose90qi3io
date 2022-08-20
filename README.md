@@ -1,7 +1,8 @@
 <h1 align="center">Hola 👋, me llamo Jose Luis</h1>
 <h3 align="center">Estudiante de la carrera: Ingeniería en Sistemas</h3>
 
-<img src="https://tenor.com/zm8Y.gif"/>
+
+![](https://c.tenor.com/iNpoS6srIXkAAAAd/waneella-pixel-art.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
